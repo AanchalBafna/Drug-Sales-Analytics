@@ -1,3 +1,4 @@
+<img width="1321" height="803" alt="Screenshot 2025-07-28 135900" src="https://github.com/user-attachments/assets/fa056004-8c35-4026-92bb-abe514f0113e" />
  💊 Drug Sales Analytics Dashboard
 
 
